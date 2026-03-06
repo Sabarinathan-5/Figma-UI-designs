@@ -1,6 +1,6 @@
 # Figma UI Designs
 
-## Design 1 – Learnzy website App UI
+## Design 1 – Learnzy website UI
 Prorotype Link:  
 https://www.figma.com/proto/TJnf2hyu0dOf02KngukocJ/learnzy?node-id=1-2&t=Tfj4PWF6rNrSITNA-1&starting-point-node-id=1%3A2
 
